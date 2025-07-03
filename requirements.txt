@@ -1,0 +1,6 @@
+spoonacular
+langgraph 
+langchain
+langchain-community
+langchain-openai
+langchain-tavily
